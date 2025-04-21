@@ -34,7 +34,7 @@ with socket.create_server((HOST, PORT)) as s:
 ```
 
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/3c857129-8110-4578-99fa-858858a97a27)
+![image](https://github.com/user-attachments/assets/f2651b78-3cb8-4c50-9cd8-14f2d1724a28)
 
 ## RESULT:
 The program is executed successfully
